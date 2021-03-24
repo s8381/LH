@@ -15,5 +15,9 @@ This repository provides a particle-resolved reaction−diffusion simulation too
 - Screened coulomb interaction (Yukawa)
 - Gaussian potential
 
+### Analysis tools
+- rate calculator
+- radial distribution analyzer
+
 ### Publications
 - [Coverage Fluctuations and Correlations in Nanoparticle-Catalyzed Diffusion-Influenced Bimolecular Reactions](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c06898) 
