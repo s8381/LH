@@ -3,6 +3,11 @@ This repository provides a particle-resolved reaction−diffusion simulation too
 
 ![](https://i.imgur.com/HiwMRF8.png)
 
+### Reaction types
+- without products
+- with products
+- mobile adsorbates
+- immobile adsorbates
 
 ### Provided Interactions
 - Lennard-Jones potential
