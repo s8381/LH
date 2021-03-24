@@ -4,11 +4,11 @@
 #include <time.h>
 #include <err.h>
 #include <string.h>
-#include "dot_product.h"
-#include "randn.h"
-#include "LJ.h"
-#include "LJ_shift.h"
-#include "tengential_harmonic.h"
+#include "../interactions/dot_product.h"
+#include "../interactions/randn.h"
+#include "../interactions/LJ.h"
+#include "../interactions/LJ_shift.h"
+#include "../interactions/tengential_harmonic.h"
 
 
 #define N 500

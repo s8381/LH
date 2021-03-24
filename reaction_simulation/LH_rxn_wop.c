@@ -4,10 +4,10 @@
 #include <time.h>
 #include <err.h>
 #include <string.h>
-#include "dot_product.h"
-#include "randn.h"
-#include "LJ.h"
-#include "LJ_shift.h"
+#include "../interactions/dot_product.h"
+#include "../interactions/randn.h"
+#include "../interactions/LJ.h"
+#include "../interactions/LJ_shift.h"
 //#include "C_remove.h"
 
 #define N 300
