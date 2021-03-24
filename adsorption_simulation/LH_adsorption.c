@@ -4,11 +4,10 @@
 #include <time.h>
 #include <err.h>
 #include <string.h>
-#include "dot_product.h"
-#include "randn.h"
-#include "LJ.h"
-#include "LJ_shift.h"
-#include "LJ6.h"
+#include "../interactions/dot_product.h"
+#include "../ineractions/randn.h"
+#include "../interactions/LJ.h"
+#include "../interactions/LJ_shift.h"
 
 #define N 500
 #define PI 3.141593
