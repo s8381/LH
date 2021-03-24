@@ -7,5 +7,7 @@ This reposotory provides a particle-resolved reaction−diffusion simulation too
 - Screened coulomb interaction (Yukawa)
 - Gaussian potential
 
+https://i.imgur.com/HiwMRF8.png
+
 ### Publications
 - [Coverage Fluctuations and Correlations in Nanoparticle-Catalyzed Diffusion-Influenced Bimolecular Reactions](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c06898) 
